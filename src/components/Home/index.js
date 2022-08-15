@@ -9,11 +9,12 @@ const Home = () => {
         <div className = "container home-page">
             <div className = "text-zone">
                 <h1>Hi, I'm <br/> 
-                <span class = "name-text"> Adithya</span>
+                <span className = "name-text"> Adithya</span>
                 <br/>
                 CS + Physics Major 
                 </h1>
                 <h2> Software Engineer / Machine Learning Engineer / Data Scientist </h2>
+                <br/>
                 <Link to = "/contact" className="flat-button"> CONTACT ME</Link>
             </div>
 
