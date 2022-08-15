@@ -1,21 +1,46 @@
-import LogoTitle from '../../assets/images/logo-s.png';
-import { Link } from 'react-router-dom';
-import './index.scss';
+import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
+import Loader from 'react-loaders'
+import AnimatedLetters from '../AnimatedLetters'
+import './index.scss'
 
 const Home = () => {
+    const [letterClass, setLetterClass] = useState('text-animate')
+    const greetArray = ['H', 'i' , ',' , ' ', 'I', "'", 'm']
+    const nameArray = ['A', 'd','i', 't','h','y','a']
+    const jobArray = ['C','S', ' ', '+', ,' ', 'P','h','y','s','i','c','s', ' ', 'M','a','j','o','r']
+
+
+        useEffect(() => {
+            setTimeout(() => {
+                      setLetterClass('text-animate-hover')
+                    }, 4000)
+      }, [])
 
 
     return (
         <div className = "container home-page">
             <div className = "text-zone">
-                <h1>Hi, I'm <br/> 
-                <span className = "name-text"> Adithya</span>
+                <h1>
+                    
+                <AnimatedLetters letterClass={letterClass} 
+                strArray={greetArray}
+                idx = {10}/>
+                    
+                <br/> 
+                <span className = "name-text"> 
+                <AnimatedLetters letterClass={letterClass} 
+                strArray={nameArray}
+                idx = {16}/>
                 <br/>
-                CS + Physics Major 
+                </span>
+                <AnimatedLetters letterClass={letterClass} 
+                strArray={jobArray}
+                idx = {16 + nameArray.length}/>
                 </h1>
                 <h2> Software Engineer / Machine Learning Engineer / Data Scientist </h2>
                 <br/>
-                <Link to = "/contact" className="flat-button"> CONTACT ME</Link>
+                <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
             </div>
 
 

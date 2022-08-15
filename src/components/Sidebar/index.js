@@ -22,9 +22,9 @@ const Sidebar = () => (
                 <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
                     <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
                 </NavLink>
-                <NavLink exact="true" activeclassname="active" className="contact-link" to="/contact">
+                <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" exact="true" activeclassname="active" className="contact-link" >
                     <FontAwesomeIcon icon={faEnvelope} color="#4d4d4e" />
-                </NavLink>
+                </a>
             </nav>
 
             <ul>
