@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
 import AnimatedLetters from '../AnimatedLetters'
 import './index.scss'
+import Logo from '../Logo'
 
 const Home = () => {
     const [letterClass, setLetterClass] = useState('text-animate')
@@ -38,10 +39,12 @@ const Home = () => {
                 strArray={jobArray}
                 idx = {16 + nameArray.length}/>
                 </h1>
-                <h2> Software Engineer / Machine Learning Engineer / Data Scientist </h2>
+                <h2> Software Engineer / Machine Learning Engineer / Physicist </h2>
                 <br/>
                 <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" className="flat-button"> EMAIL ME</a>
             </div>
+
+            {/* <Logo/> */}
 
 
         </div>
