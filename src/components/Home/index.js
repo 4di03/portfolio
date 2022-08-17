@@ -20,6 +20,7 @@ const Home = () => {
 
 
     return (
+        <>
         <div className = "container home-page">
             <div className = "text-zone">
                 <h1>
@@ -48,6 +49,9 @@ const Home = () => {
 
 
         </div>
+        <Loader type="line-scale-pulse-out-rapid" />
+
+        </>
     )
 }
 
