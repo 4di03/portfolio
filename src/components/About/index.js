@@ -34,8 +34,13 @@ const About = () => {
                     I am currently looking for an internship/co-op role for Spring 2023 at an inspiring tech company. 
                 </p>
 
+                <p> I am currently working with the Mhealth research group of northeastern university as an undergraduate researcher.
+                    Currently, I am working on developing quality control scripts to flag bugs in data from the CDC's NHANES physical activity dataset 
+                    in order to allow our group and other researchers to effectively use machine learning to gain insights from the dataset. </p>
+
                 <p> My biggest strength is my curiositiy for solving interseting problems and learning about new technologies. I love finding new ways in which technology and science can better the world, and hope to be part of the force that can help make that change! In my free time, I spend time exercising, playing video games, cooking, and hanging out with friends and family.</p>
 
+                
             </div>
 
             <div className='stage-cube-cont'>

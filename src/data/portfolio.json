@@ -1,0 +1,30 @@
+
+
+
+{
+    "portfolio":[
+        {
+            "cover": "/portfolio/AI_Hoops/cover.png",
+            "title": "AI Hoops",
+            "description": "Python3, Pygame, NEAT(Evolutionary Neural Nets), Deep Learning",
+            "url": "https://github.com/4di03/BasketBallAI",
+            "code": "https://github.com/4di03/BasketBallAI"
+        },
+        {
+            "cover": "/portfolio/block_invasion/cover.png",
+            "title": "Block Invasion",
+            "description": "Html5 Canvas, JS",
+            "url": "https://4di03.github.io/BlockInvasion",
+            "code": "https://github.com/4di03/BlockInvasion"
+        },
+        {
+            "cover": "/portfolio/Investing_Ahead/cover.png",
+            "title": "Investing Ahead",
+            "description": "HTML, CSS, JS, Bootstrap",
+            "url": "https://investingahead.org/index.html",
+            "code": "https://github.com/4di03/InvestingAheadWebsite" 
+        }
+
+    ]
+
+}
