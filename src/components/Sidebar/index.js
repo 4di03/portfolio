@@ -14,13 +14,13 @@ const Sidebar = () => (
 
 
             <nav>
-                <NavLink exact="true" activeclassname="active" to="/">
+                <NavLink exact="true" activeclassname="active" to="/portfolio">
                     <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
                 </NavLink>
                 <NavLink exact="true" activeclassname="active" className="about-link" to="/about">
                     <FontAwesomeIcon icon={faUser} color="#4d4d4e" />
                 </NavLink>
-                <NavLink exact="true" activeclassname="active" className="portfolio-link" to="/portfolio">
+                <NavLink exact="true" activeclassname="active" className="portfolio-link" to="/work">
                     <FontAwesomeIcon icon={faBoxArchive} color="#4d4d4e" />
                 </NavLink>
                 <a href = "mailto:adithyapalle12@gmail.com?subject = Feedback&body = Message" exact="true" activeclassname="active" className="contact-link" >
