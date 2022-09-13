@@ -7,7 +7,7 @@
             "cover": "/portfolio/AI_Hoops/cover.png",
             "title": "AI Hoops",
             "description": "Python3, Pygame, NEAT(Evolutionary Neural Nets), Deep Learning",
-            "url": "https://4di03.itch.io/ai-hoops",
+            "url": "https://ai-hoops1.herokuapp.com/",
             "code": "https://github.com/4di03/BasketBallAI"
         },
         {
