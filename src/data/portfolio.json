@@ -5,24 +5,47 @@
     "portfolio":[
         {
             "cover": "/portfolio/AI_Hoops/cover.png",
-            "title": "AI Hoops",
-            "description": "Python3, Pygame, NEAT(Evolutionary Neural Nets), Deep Learning",
+            "title": "AI Hoops (2022-2023)",
+            "description": "Genetic Neuroevolution for beating the game of basketball",
             "url": "https://ai-hoops1.herokuapp.com/",
             "code": "https://github.com/4di03/BasketBallAI"
         },
         {
+            "cover": "/portfolio/ImageProcessor/Image_Processor.png",
+            "title": "Image Processor (2022)",
+            "description": "Image Editing Application",
+            "url": "https://gitfront.io/r/user-2672045/Kbwz4adZK9r9/ImageProcessor/",
+            "code": "https://gitfront.io/r/user-2672045/Kbwz4adZK9r9/ImageProcessor/"
+        }
+        ,
+        {
+            "cover": "/portfolio/NBA_Predictor/ranking.png",
+            "title": "NBA Predictor (2022)",
+            "description": "Rank NBA teams using Naive Bayes!",
+            "url": "https://colab.research.google.com/drive/1mblNuxmtNAxww-q50-wt2rlK6YzGjurj?usp=sharing#scrollTo=huWyvJR-2opl",
+            "code": "https://github.com/4di03/NBAPrediction/blob/main/NBAPrediction.ipynb"
+        }
+        ,
+        {
             "cover": "/portfolio/block_invasion/cover.png",
-            "title": "Block Invasion",
-            "description": "Html5 Canvas, JS",
+            "title": "Block Invasion (2020)",
+            "description": "Survive the block invasion!",
             "url": "https://4di03.github.io/BlockInvasion",
             "code": "https://github.com/4di03/BlockInvasion"
         },
         {
             "cover": "/portfolio/Investing_Ahead/cover.png",
-            "title": "Investing Ahead",
-            "description": "HTML, CSS, JS, Bootstrap",
+            "title": "Investing Ahead (2020)",
+            "description": "High School Investing Club Website",
             "url": "https://investingahead.org/index.html",
             "code": "https://github.com/4di03/InvestingAheadWebsite" 
+        },
+        {
+            "cover": "/portfolio/DigitDetector/dd.png",
+            "title": "Digit Detector (2022)",
+            "description": "High School Investing Club Website",
+            "url": "https://www.youtube.com/watch?v=Vw1Ab6IW2HM",
+            "code": "https://github.com/4di03/digitDetector" 
         }
 
     ]
