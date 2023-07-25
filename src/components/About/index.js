@@ -30,15 +30,28 @@ const About = () => {
 
                 </h1>
 
-                <p> I am an aspiring software engineer who hopes to leverage software and artifical intellgence to solve some of the world's most challenging problems.
-                    I am currently looking for an internship/co-op role for Spring 2023 at an inspiring tech company. 
+                <p> Hi, I'm Adithya! I am an engineer who hopes to leverage software and artifical intellgence to solve some of the world's most challenging problems.
+                    I am currently looking for an internship/co-op for Spring 2024 in the areas of software engineering, artifical intellgence, 
+                    and scientific computing. 
                 </p>
 
-                <p> I am currently working with the Mhealth research group of northeastern university as an undergraduate researcher.
-                    Currently, I am working on developing quality control scripts to flag bugs in data from the CDC's NHANES physical activity dataset 
-                    in order to allow our group and other researchers to effectively use machine learning to gain insights from the dataset. </p>
+                <p> Last Spring, I worked at Genentech as a Machine Learning intern. My work involved researching, designing, 
+                    and implementing machine learning models to assess disease progression risk in Multiple Sclerosis patients.
+                    I developed a Python framework that encapsulated and simplified the disease modeling pipeline, resulting in sparse, 
+                    efficient regression-based models that outperformed existing statistical and deep learning approaches. These models will be vital 
+                    for future MS prognosis and drug treatment research. This experience was fulfilling as it allowed me
+                     to create a product that positively impacts lives by enabling advanced MS research, reaffirming 
+                    my passion for solving challenging problems with AI. 
+                    Additionally, I acquired new skills in ML, statistics, software engineering, and research. </p>
+{/* 
+                <p> Before Genentech, I worked with the Mhealth research group of northeastern university as an undergraduate researcher.
+                    I developed quality control scripts to flag bugs in data from the CDC's NHANES physical activity dataset 
+                    in order to allow our group and other researchers to effectively use machine learning to gain insights from the dataset. </p> */}
 
-                <p> My biggest strength is my curiositiy for solving interseting problems and learning about new technologies. I love finding new ways in which technology and science can better the world, and hope to be part of the force that can help make that change! In my free time, I spend time exercising, playing video games, cooking, and hanging out with friends and family.</p>
+                <p> My biggest strength is my curiositiy for solving interseting problems and learning about new technologies. 
+                    I love finding new ways in which technology and science can better the world, 
+                    and hope to be part of the force that can help make that change! 
+                    My hobbies include cooking, coding, gaming, and exercise.</p>
 
                 
             </div>

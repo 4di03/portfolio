@@ -6,7 +6,7 @@
         {
             "cover": "/portfolio/AI_Hoops/cover.png",
             "title": "AI Hoops (2022-2023)",
-            "description": "Genetic Neuroevolution for beating the game of basketball",
+            "description": "Genetic Neuroevolution for playing basketball",
             "url": "https://ai-hoops1.herokuapp.com/",
             "code": "https://github.com/4di03/BasketBallAI"
         },
@@ -43,7 +43,7 @@
         {
             "cover": "/portfolio/DigitDetector/dd.png",
             "title": "Digit Detector (2022)",
-            "description": "High School Investing Club Website",
+            "description": "Deep Learning for Digit Recognition",
             "url": "https://www.youtube.com/watch?v=Vw1Ab6IW2HM",
             "code": "https://github.com/4di03/digitDetector" 
         }
