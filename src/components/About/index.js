@@ -48,7 +48,7 @@ const About = () => {
                     I developed quality control scripts to flag bugs in data from the CDC's NHANES physical activity dataset 
                     in order to allow our group and other researchers to effectively use machine learning to gain insights from the dataset. </p> */}
 
-                <p> My biggest strength is my curiositiy for solving interseting problems and learning about new technologies. 
+                <p> My biggest strength is my curiosity for solving interseting problems and learning about new technologies. 
                     I love finding new ways in which technology and science can better the world, 
                     and hope to be part of the force that can help make that change! 
                     My hobbies include cooking, coding, gaming, and exercise.</p>
